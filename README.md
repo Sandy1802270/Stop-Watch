@@ -1,4 +1,4 @@
-# Stop Watch using ATmega16 Microcontroller and 7 segment display
+# Stop Watch using ATmega16 Microcontroller and 7-segment display
 Detailed Specifications:
 1. Use ATmega16 Microcontroller with frequency 1Mhz.
 2. Configure Timer1 in ATmega16 with CTC mode to count the Stop Watch time.
